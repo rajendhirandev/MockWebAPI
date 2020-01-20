@@ -1,0 +1,47 @@
+{
+  "login": {
+    "username": "admin",
+    "password": "admin"
+  },
+  "myWall": [
+    {
+      "id": "1324dfdss242",
+      "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
+      "postType": "image",
+      "message": "Welcome to the news world",
+      "imageUrl": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2019/02/breaking6-1522285754-1548809291-1549069725-1549243102.jpg"
+    },
+    {
+      "id": "ad1rter353",
+      "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
+      "postType": "text",
+      "message": "Hi I'm in the DLF IT Park - Checked-In"
+    },
+    {
+      "id": "sarter3453ad42",
+      "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
+      "postType": "text",
+      "message": "Eye on China, South gets 1st Sukhoi squad with BrahMos"
+    },
+    {
+      "id": "1324dasdfdss242",
+      "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
+      "postType": "image",
+      "message": "News 18 Program",
+      "imageUrl": "https://i.ytimg.com/vi/0jDyuyfAr7o/maxresdefault.jpg"
+    },
+    {
+      "id": "132sa4dfdss242",
+      "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
+      "postType": "image",
+      "message": "India, Sri Lanka seek closer military ties as China clout grows",
+      "imageUrl": "https://img.etimg.com/thumb/msid-73377768,width-362,imgsize-113539,height-240,resizemode-4/industry/transportation/airlines-/-aviation/air-india-unions-to-demand-voluntary-retirement-scheme-in-monday-meeting.jpg"
+    },
+    {
+      "id": "rdster345342432",
+      "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
+      "postType": "text",
+      "message": "WhatsApp faces outage in India, Twitter abuzz"
+    }
+  ]
+}
