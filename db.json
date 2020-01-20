@@ -6,6 +6,7 @@
   "myWall": [
     {
       "id": "1324dfdss242",
+      "timestamp": "1579503698802",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "image",
       "message": "Welcome to the news world",
@@ -13,18 +14,21 @@
     },
     {
       "id": "ad1rter353",
+      "timestamp": "1579503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "text",
       "message": "Hi I'm in the DLF IT Park - Checked-In"
     },
     {
       "id": "sarter3453ad42",
+      "timestamp": "1279503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "text",
       "message": "Eye on China, South gets 1st Sukhoi squad with BrahMos"
     },
     {
       "id": "1324dasdfdss242",
+      "timestamp": "1259503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "image",
       "message": "News 18 Program",
@@ -32,6 +36,7 @@
     },
     {
       "id": "132sa4dfdss242",
+      "timestamp": "1149503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "image",
       "message": "India, Sri Lanka seek closer military ties as China clout grows",
@@ -39,6 +44,7 @@
     },
     {
       "id": "rdster345342432",
+      "timestamp": "155950375269",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "text",
       "message": "WhatsApp faces outage in India, Twitter abuzz"
