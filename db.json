@@ -49,5 +49,14 @@
       "postType": "text",
       "message": "WhatsApp faces outage in India, Twitter abuzz"
     }
+  ],
+  "reaction": [
+    {
+      "feed_id": "rdster345342432",
+      "total_likes": 10,
+      "like": 3,
+      "lol": 4,
+      "angry": 3
+    }
   ]
 }
