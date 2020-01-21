@@ -58,5 +58,10 @@
       "lol": 4,
       "angry": 3
     }
-  ]
+  ],
+  "comments": {
+    "post": {
+      "Test": "Test"
+    }
+  }
 }
