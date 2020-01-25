@@ -6,6 +6,7 @@
   "myWall": [
     {
       "id": "1324dfdss242",
+      "name":"News World",
       "timestamp": "1579503698802",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "image",
@@ -14,6 +15,7 @@
     },
     {
       "id": "ad1rter353",
+      "name":"The Reporter",
       "timestamp": "1579503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "text",
@@ -21,6 +23,7 @@
     },
     {
       "id": "sarter3453ad42",
+       "name":"China News",
       "timestamp": "1279503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "text",
@@ -28,6 +31,7 @@
     },
     {
       "id": "1324dasdfdss242",
+       "name":"News 18",
       "timestamp": "1259503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "image",
@@ -36,6 +40,7 @@
     },
     {
       "id": "132sa4dfdss242",
+       "name":"News Military",
       "timestamp": "1149503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "image",
@@ -44,6 +49,7 @@
     },
     {
       "id": "rdster345342432",
+       "name":"India Today",
       "timestamp": "155950375269",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "text",
