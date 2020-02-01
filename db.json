@@ -5,8 +5,9 @@
   },
   "myWall": [
     {
-      "id": "1324dfdss242",
-      "name":"News World",
+      "category": "News",
+      "id": "132324dfdss242",
+      "name": "News World",
       "timestamp": "1579503698802",
       "profile_pic": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/18/b3/38/18b338d4-ee8a-8046-5c7e-f268d3313751/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/246x0w.png",
       "postType": "image",
@@ -14,24 +15,36 @@
       "imageUrl": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2019/02/breaking6-1522285754-1548809291-1549069725-1549243102.jpg"
     },
     {
-      "id": "ad1rter353",
-      "name":"The Reporter",
+      "category": "Sports",
+      "id": "ad221rter353",
+      "name": "The Reporter",
       "timestamp": "1579503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "text",
       "message": "Hi I'm in the DLF IT Park - Checked-In"
     },
     {
-      "id": "sarter3453ad42",
-       "name":"China News",
+      "category": "Sports",
+      "id": "ad3321rter353",
+      "name": "BCCI",
+      "timestamp": "17954303744769",
+      "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
+      "postType": "text",
+      "message": "India vs NZ -- Super Over -- India won the series"
+    },
+    {
+      "category": "News",
+      "id": "sarte2r3453ad42",
+      "name": "China News",
       "timestamp": "1279503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "text",
       "message": "Eye on China, South gets 1st Sukhoi squad with BrahMos"
     },
     {
-      "id": "1324dasdfdss242",
-       "name":"News 18",
+      "category": "Misc",
+      "id": "13243214dasdfdss242",
+      "name": "News 18",
       "timestamp": "1259503744769",
       "profile_pic": "https://upload.wikimedia.org/wikipedia/en/0/05/News18_Kerala.png",
       "postType": "image",
@@ -39,8 +52,9 @@
       "imageUrl": "https://i.ytimg.com/vi/0jDyuyfAr7o/maxresdefault.jpg"
     },
     {
-      "id": "132sa4dfdss242",
-       "name":"News Military",
+      "category": "General",
+      "id": "132s42a4dfdss242",
+      "name": "News Military",
       "timestamp": "1149503744769",
       "profile_pic": "https://img.favpng.com/0/23/12/computer-icons-user-profile-avatar-download-png-favpng-HCP2ruSy9qq256gNd6va7BTdJ.jpg",
       "postType": "image",
@@ -48,12 +62,22 @@
       "imageUrl": "https://img.etimg.com/thumb/msid-73377768,width-362,imgsize-113539,height-240,resizemode-4/industry/transportation/airlines-/-aviation/air-india-unions-to-demand-voluntary-retirement-scheme-in-monday-meeting.jpg"
     },
     {
-      "id": "rdster345342432",
-       "name":"India Today",
+      "category": "Misc",
+      "id": "rd421ster345342432",
+      "name": "India Today",
       "timestamp": "155950375269",
       "profile_pic": "http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
       "postType": "text",
       "message": "WhatsApp faces outage in India, Twitter abuzz"
+    },
+    {
+      "category": "Misc",
+      "id": "rdst32er345342432",
+      "name": "Chennai One",
+      "timestamp": "1459503425269",
+      "profile_pic": "http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
+      "postType": "text",
+      "message": "Heavy traffic on toll - Chennai One - Thooraipakkam"
     }
   ],
   "reaction": [
